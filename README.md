@@ -9,3 +9,5 @@ Requriements:
 [Sociallite Spotify](https://socialiteproviders.com/Spotify/)
 
 [Laravel Livewire](https://livewire.laravel.com/docs/quickstart)
+
+Redis 
