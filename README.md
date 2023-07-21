@@ -11,3 +11,6 @@ Requriements:
 [Laravel Livewire](https://livewire.laravel.com/docs/quickstart)
 
 Redis 
+
+
+![Gif](https://bataboom.dev/images/soundparty.gif)
